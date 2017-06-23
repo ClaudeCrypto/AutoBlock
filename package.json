@@ -1,0 +1,20 @@
+{
+  "name": "autoblock",
+  "version": "1.0.0",
+  "description": "Cryptocurrency Email Alert Bot",
+  "main": "autoblock.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "node-fetch": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClaudeCrypto/AutoBlock/blob/master/autoblock.js"
+  },
+  "author": "Andrew Conniff",
+  "license": "ISC"
+}
